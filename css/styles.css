@@ -1,0 +1,581 @@
+
+.leftside
+{
+position: absolute;
+width: 950px;
+height: 840px;
+left: 0px;
+top: 0px;
+} 
+.rectangle-2 {
+position: absolute; 
+width: 490px;
+height: 840px;
+left: 950px;
+top: 0px;
+ mix-blend-mode: normal; 
+background: #FFFFFF;
+z-index: 1;
+  }
+  .heading
+  {
+    width: 160px;
+height: 16px;
+left: 1017.3px;
+top: 341px;
+padding-left: 5px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #1C2C42;
+  }
+  .form-wrapper
+  {
+    margin-top: 21px;
+  }
+  .getback
+  {
+   
+
+min-width: 100px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+margin-top: 30px;
+
+color: #516078;
+  }
+ .group-283
+ {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 124px;
+  width: 398px;
+  left: 994px;
+top: 101px;
+margin-left: 44px;
+margin-top:  101px;
+margin-right:  50px ;
+}
+
+.maya-logo {
+  height: 58px;
+  margin-left: -0.17px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 96px;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 18px;
+  min-height: 48px;
+  mix-blend-mode: normal;
+  width: 398px;
+}
+.group-284 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 176px;
+  width: 396px;
+  
+  margin-left: 44px;
+  margin-top: 113px;
+}
+.fullbox
+{
+width: 396px;
+height: 52px;
+left: 994px;
+top: 338px;
+border: 1px solid #E9EBEF;
+}
+.fullboxcred
+{
+  width: 396px;
+height: 52px;
+left: 994px;
+top: 408px;
+margin-top: 18px;
+border: 1px solid #E9EBEF;
+}
+.reasonbox
+{
+  width: 396px;
+height: 99px;
+left: 994px;
+top: 498px;
+margin-top: 18px;
+border: 1px solid #E9EBEF;
+}
+.full-input {
+  
+  padding: 3px;
+  border: none;
+}
+input {
+  outline: none;
+  border: none;
+  display:block;
+  line-height: 1.2em;
+  font-size: 14pt;
+  
+}
+::placeholder
+{
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 14px;
+padding-left: 10px;
+color: rgba(21, 37, 66, 0.3);
+}
+label {
+  display: block;
+  font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+padding-left: 10px;
+color: #575E6B;
+
+}
+.Loginbox
+{
+  width: 234px;
+  height: 34px;
+  left: 1006px;
+  top: 347px;
+}
+.credentialbox
+{
+  width: 234px;
+height: 34px;
+left: 1006px;
+top: 417px;
+  
+}
+
+
+
+
+.group-282 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 44px;
+  margin-top: 18px;
+  margin-right: 50px;
+  
+}
+
+.group-259 {
+  
+  display: flex;
+  
+  width: 129px;
+height: 18px;
+left: 997px;
+top: 487px;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  border-radius: 2px;
+  display: flex;
+ 
+  
+  padding: 1px;
+}
+
+
+.remember-me {
+  
+  font-family: Metropolis;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+
+  
+}
+.submit
+{
+ 
+height: 36px;
+margin-left: 280px;
+height: 36px;
+width: 120px;
+left: 1270px;
+top: 448px;
+border-radius: 2px;
+background-color: 
+#141414;
+color: white;
+
+
+}
+.group-227a
+{
+  margin-top: 18px;
+}
+.heading1
+{
+  width: 327px;
+height: 16px;
+left: 1021.72px;
+top: 339px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #1C2C42;
+}
+.reset
+{
+  
+width: 100px;
+height: 36px;
+margin-left: 126px;
+height: 36px;
+width: 120px;
+
+ 
+  
+
+}
+.reseta
+{
+  margin-top: 18px;
+}
+.update
+{
+  width: 140px;
+height: 140px;
+left: 959px;
+top: 264px;
+margin-top: 37px;
+margin-left: 7px;
+
+
+mix-blend-mode: darken;
+}
+.text-update
+{
+  width: 327px;
+height: 16px;
+left: 994px;
+top: 386px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #1C2C42;
+}
+
+/* identical to box height */
+.gotobox
+{
+  
+padding-top: 12px;
+margin: 12px 28px 12px 0px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.successbox1
+{
+  width: 351px;
+height: 96px;
+left: 1017px;
+top: 378px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+color: #1C2C42;
+}
+
+.group-227c
+{
+  width: 140px;
+height: 36px;
+left: 994px;
+top: 514px;
+margin-top: 28px;
+background: #141414;
+border-radius: 2px;
+margin-right: 306px;
+}
+.successbox
+{
+  width: 351px;
+height: 72px;
+left: 994px;
+top: 414px;
+margin-top: 12px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: left;
+
+color: #1C2C42;
+}
+.group-431a
+{
+  width: 351px;
+height: 164px;
+left: 994px;
+top: 386px;
+margin-left: 44px;
+margin-top: 22px;
+}
+.welcomemessage
+{
+  width: 307px;
+height: 13px;
+left: 1017px;
+top: 516px;
+margin-top: 42px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #516078;
+}
+.group-431
+{
+  width: 351px;
+height: 164px;
+left: 994px;
+top: 386px;
+margin-left: 44px;
+}
+.group-227b {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 90px;
+  
+}
+.group-227 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 142px;
+  
+}
+.group-227d {
+  align-items: center;
+  display: flex;
+  margin-left: 0px;
+  
+}
+
+.overlap-group {
+  align-items: center;
+  background-color: 
+#141414;
+  border-radius: 2px;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  min-width: 120px;
+  padding: 0 37px;
+}
+
+.sign-in {
+  align-content: center;
+  color: var(--white);
+  font-family: var(--font-family-metropolis-);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  letter-spacing: 0.24px;
+  min-height: 12px;
+  min-width: 43px;
+  height: 36px;
+width: 100px;
+left: 1270px;
+top: 478px;
+border-radius: 2px;
+
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+.lost-your-password {
+  letter-spacing: 0;
+  min-height: 13px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  width: 144px;
+  margin-top: 27px;
+  margin-left: 49px;
+  font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #516078;
+
+}
+.not-a-member
+{
+  margin-top: 13px;
+  margin-left: 49px;
+  font-family: Metropolis;
+  
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+color: #516078;
+}
+
+a:link,a:visited
+{
+  color: #516078;
+}
+
+span1
+{
+  text-decoration: underline;
+}
+
+.footer
+{
+  bottom: 0px;
+}
+
+.group-280 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  min-width: 357px;
+  border: 1px solid #E9EBEF;
+  width: 357.05px;
+  height: 48px;
+  margin-left: 37px;
+  margin-top: 126px;
+}
+
+.group-279 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 4px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+  padding: 9px;
+}
+
+.mask-group {
+  height: 28px;
+  width: 28px;
+}
+
+.group-278 {
+  height: 36px;
+  width: 299px;
+}
+
+.addressgroup {
+  height: 36px;
+  position: relative;
+  margin-left: 12px;
+  width: 297.05px;
+  height: 36px;
+  
+  
+}
+@font-face {
+  font-family: "Metropolis";
+  font-style: normal;
+  
+  src: url("https://fonts.animaapp.com/Metropolis-Regular") format("opentype");
+}
+.address {
+  font-family: Metropolis;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.image {
+  height: 10px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 9px;
+}
+.group-282 {
+  align-items: center;
+  display: flex;
+  margin-left: 3px;
+  margin-top: 18px;
+  min-width: 393px;
+}
+
+.group-259 {
+  align-items: center;
+  display: flex;
+  min-width: 131px;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  border-radius: 2px;
+  display: flex;
+  height: 18px;
+  min-width: 18px;
+  padding: 1px;
+}
